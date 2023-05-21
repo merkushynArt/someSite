@@ -16,7 +16,7 @@ export const Main = () => {
                <span className='main__promo-text'>
                Профессиональный сервис по трудоустройству на круизные лайнеры, оформление виз и обучение в США.
                </span>
-               <h1 className='main__promo-title'>SEA STAR GROUP</h1>
+               <h1 className='main__promo-title'>Wide Shipping</h1>
                <div className="main__promo-btns">
                   <MyLink1 to="/about">Подробнее</MyLink1>
                   <MyLink2 to="/contacts">Контакты</MyLink2>
@@ -238,7 +238,7 @@ export const Main = () => {
                </div>
             </div>
 
-            <div className="main-info__title">Sea Star Group</div>
+            <div className="main-info__title">Wide Shipping</div>
          </section>
 
          <div className="container">
@@ -258,8 +258,8 @@ export const Main = () => {
          <section className='main-contacts'>
             <div className="container">
                <div className="main-contacts-wrapper">
-                  <h3 className='title text-center'>Отзывы наших клиентов</h3>
-                  <MyLink2 to="/contacts">Подробнее</MyLink2>
+                  <h3 className='title text-center'>Остались вопросы?</h3>
+                  <MyLink2 to="/contacts">Связаться с нами</MyLink2>
                </div>
             </div>
          </section>
