@@ -7,6 +7,9 @@ import { Slider } from '../components/Slider';
 import { Slider2 } from '../components/Slider2';
 
 export const Main = () => {
+   /*https://seastargroup.com.ua/wp-content/uploads/2023/03/front_page_seastargroup-e1680207443415.png
+   https://seastargroup.com.ua/wp-content/uploads/2023/03/front_page_welcome_smile_.png
+   */
    return (
       <div className='main'>
          <section className="main__promo">
@@ -29,7 +32,7 @@ export const Main = () => {
                <div className="main-offer__item">
                   <h3 className='title'>Мы предлагаем:</h3>
                   <div className="main-offer__item-img1">
-                     <img src="https://seastargroup.com.ua/wp-content/uploads/2023/03/front_page_welcome_smile_.png" alt="" />
+                     <img src="/" alt="https://seastargroup.com.ua/wp-content/uploads/2023/03/front_page_welcome_smile_.png" />
                   </div>
                </div>
 
@@ -125,7 +128,7 @@ export const Main = () => {
                   </div>
 
                   <div className="benefits__img">
-                     <img src="https://seastargroup.com.ua/wp-content/uploads/2023/03/front_page_seastargroup-e1680207443415.png" alt="" />
+                     <img src="/images/cat.jpg" alt="" />
                   </div>
                </div>
             </div>
