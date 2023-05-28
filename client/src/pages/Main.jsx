@@ -9,6 +9,7 @@ import { Slider2 } from '../components/Slider2';
 export const Main = () => {
    /*https://seastargroup.com.ua/wp-content/uploads/2023/03/front_page_seastargroup-e1680207443415.png
    https://seastargroup.com.ua/wp-content/uploads/2023/03/front_page_welcome_smile_.png
+   
    */
    return (
       <div className='main'>

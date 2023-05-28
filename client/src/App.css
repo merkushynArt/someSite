@@ -207,7 +207,8 @@ section {
    bottom: 0;
    left: 0;
    z-index: -2;
-   background-image: url("https://seastargroup.com.ua/wp-content/uploads/2023/03/usa_flag_seastargroup-scaled.jpeg"); 
+   /*https://seastargroup.com.ua/wp-content/uploads/2023/03/usa_flag_seastargroup-scaled.jpeg*/
+   background-image: url("https://drikus.club/uploads/posts/2022-09/1664261508_6-drikus-club-p-kruiz-na-samom-bolshom-lainere-oboi-6.jpg"); 
    background-position: 50% 0%; 
    background-repeat: no-repeat;
    background-size: 100%;

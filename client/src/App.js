@@ -31,7 +31,7 @@ function App() {
          conditions: 'проживание, питание и медицинское страхование за счет работодателя.',
          schedule: '7 дней/неделю, 10 часов/день (смены).',
          expenses: 'оформление паспорта моряка и сертификатов по технике безопасности, прохождение медкомиссии, получение необходимых виз, покупка билета на самолет. Суммарные затраты зависят от маршрута/направления лайнера.',
-         img: 'https://kh-news.net/images/stories/oleg/chto-dolzhen-znat-oficiant-restorana/1chto-dolzhen-znat-oficiant-restorana.jpg' 
+         img: 'https://lg-news.net/media/k2/items/src/3000305f45f93e79e74b8dce623d19a4.jpg' 
       },
       { 
          id: '3', 
