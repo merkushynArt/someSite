@@ -14,7 +14,7 @@ export const JobDetails = ({ jobs }) => {
 
    // Отображаем информацию о выбранной вакансии
    return (
-      <div className='job'>
+      <section className='job'>
          <div className="job__top">
             <img src={selectedJob.img} alt="" />
             <div className="job__top-wrapper">
@@ -33,6 +33,6 @@ export const JobDetails = ({ jobs }) => {
          <div dangerouslySetInnerHTML={{ __html: selectedJob.requirements }}></div>
 
          <p>{selectedJob.description}</p>
-      </div>
+      </section>
    );
 };
