@@ -21,7 +21,7 @@ export const Header = () => {
                </NavLink>
             </li>
             <li className='header__list-item'>
-               <NavLink to="/vacancies">
+               <NavLink to="/jobs">
                   Вакансии
                </NavLink>
             </li>

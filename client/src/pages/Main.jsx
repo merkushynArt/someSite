@@ -32,7 +32,7 @@ export const Main = () => {
                <div className="main-offer__item">
                   <h3 className='title'>Мы предлагаем:</h3>
                   <div className="main-offer__item-img1">
-                     <img src="/" alt="https://seastargroup.com.ua/wp-content/uploads/2023/03/front_page_welcome_smile_.png" />
+                     <img src="https://seastargroup.com.ua/wp-content/uploads/2023/03/front_page_welcome_smile_.png" alt="" />
                   </div>
                </div>
 
@@ -128,7 +128,7 @@ export const Main = () => {
                   </div>
 
                   <div className="benefits__img">
-                     <img src="/images/cat.jpg" alt="" />
+                     <img src="https://seastargroup.com.ua/wp-content/uploads/2023/03/front_page_seastargroup-e1680207443415.png" alt="" />
                   </div>
                </div>
             </div>
